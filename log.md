@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6th, 2017
+
+- **Today:** Fixed my binary search tree deletion and type the thing on Github.
+- **Thoughts:** Should be good to go. Spotted a few syntax errors I made in my previous C code too, regarding to semicolons.
+- **Link to work:** [Link to the code](https://github.com/fuzzytern/cs-study/blob/master/binarySearchTree.c)
+
 ### Day 3: January 5th, 2017
 
 - **Today:** Got started on binary search trees in C on paper.
