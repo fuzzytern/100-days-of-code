@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 5: January 7th, 2017
+
+- **Today:** Wrote a simple binary search implementation in C
+- **Thoughts:** Written on phone, will need to compile.
+- **Link to work:** [Link to the code](https://github.com/fuzzytern/cs-study/blob/master/simpleBinarySearch.c)
+
 ### Day 4: January 6th, 2017
 
 - **Today:** Fixed my binary search tree deletion and type the thing on Github.
