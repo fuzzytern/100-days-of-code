@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
+### Day 6: January 8rd, 2017
 
+- **Today:** Improved my basic version of dynamic array in C. Added remove method, ˋfreeˋ call and some refactoring.
+- **Thoughts:** Should be operational now. Will check once I have access to a compiler.
+- **Link to work:** [Dynamic Array code](https://github.com/fuzzytern/cs-study/blob/master/dynArray.c)
 
 ### Day 5: January 7th, 2017
 
