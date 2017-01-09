@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
-### Day 6: January 8rd, 2017
+
+### Day 7: January 9th, 2017
+
+- **Today:** Setup basic StandardML development environment + wrote first function.
+- **Thoughts:** It's fun, the feel is good. Liking type checking and functional style.
+- **Link to work:** [My code](https://twitter.com/niwolive/status/818489209438736384)
+
+### Day 6: January 8th, 2017
 
 - **Today:** Improved my basic version of dynamic array in C. Added remove method, ˋfreeˋ call and some refactoring.
 - **Thoughts:** Should be operational now. Will check once I have access to a compiler.
