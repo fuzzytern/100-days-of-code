@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10th, 2017
+
+- **Today:** Got the linked list to compile but it's railsing some runtime exceptions.
+- **Thoughts:** This is stretching my mind with double pointers, memcpy etc... Will need to clear it up.
+- **Link to work:** [My code](https://github.com/fuzzytern/cs-study/blob/master/linkedList.c)
+
 ### Day 7: January 9th, 2017
 
 - **Today:** Setup basic StandardML development environment + wrote first function.
