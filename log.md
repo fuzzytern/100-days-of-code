@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 12th, 2017
+
+- **Today:** Further work on the link list in C. Code now produces expected results. 
+- **Thoughts:** Could I use mcpy to avoid the double pointer? Need more digging to fully understand it.
+- **Link to work:** [My code](https://github.com/fuzzytern/cs-study/blob/master/linkedList.c)
+
+### Day 9: January 11th, 2017
+
+- **Today:** Worked on the blog: played with vue-router and prerendering
+- **Thoughts:** About to get vue-router operational. Then need to make it play with prerendering nicely.
+- **Link to work:** [My code](https://github.com/niwolive/blog)
+
 ### Day 8: January 10th, 2017
 
 - **Today:** Got the linked list to compile but it's railsing some runtime exceptions.
